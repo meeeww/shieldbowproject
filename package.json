@@ -1,0 +1,28 @@
+{
+  "name": "yuumisuperviser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeeww/yuumisuperviser.git"
+  },
+  "author": "zas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meeeww/yuumisuperviser/issues"
+  },
+  "homepage": "https://github.com/meeeww/yuumisuperviser#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
+    "electron": "^21.2.0",
+    "leaguejs": "^2.3.1",
+    "shieldbow": "^1.6.0"
+  },
+  "devDependencies": {}
+}
